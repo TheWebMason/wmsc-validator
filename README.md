@@ -1,5 +1,5 @@
 # WebMason Smart Chain Validator (WMSC Validator)
-_Based on [Polygon (previously Matic) Heimdall](https://github.com/maticnetwork/heimdall)_
+_Based on [Polygon (previously Matic) Heimdall](https://github.com/maticnetwork/heimdall)._
 
 Validator for WebMason Smart Chain. It uses peppermint, customized [Tendermint](https://github.com/tendermint/tendermint).
 
